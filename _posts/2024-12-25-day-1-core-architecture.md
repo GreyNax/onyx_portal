@@ -6,7 +6,7 @@ categories: [design, decisions]
 tags: [containers, utilities, RV-standards, docking]
 ---
 
-Today was the first deep design session for the Obsidian Portal. We started with a vague concept about modular escape rooms in shipping containers and ended with a coherent technical approach that leverages 50+ years of proven RV industry standards.
+Today was the first deep design session for the Onyx Portal. We started with a vague concept about modular escape rooms in shipping containers and ended with a coherent technical approach that leverages 50+ years of proven RV industry standards.
 
 ## The Big Decisions
 
@@ -79,7 +79,7 @@ Initially I thought mobile containers needed full parity with hub operations. Bu
 - Battery + generator sufficient for event duration
 - Simpler systems = lower cost = more accessible
 
-**Mobile module:** $15,000-25,000  
+**Mobile module:** $15,000-25,000
 **Full parity module:** $40,000+
 
 The cost difference enables more people to participate. And for permanent operation, that's what hubs are for.
@@ -128,7 +128,7 @@ The more I think about this, the more convinced I am that this only works as an 
 
 **Network effects are the moat:**
 - 1 hub = limited value
-- 10 hubs = regional mobility  
+- 10 hubs = regional mobility
 - 50+ hubs = national network
 - Each new hub benefits ALL participants
 

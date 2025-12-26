@@ -1,9 +1,9 @@
-# The Obsidian Portal Project
+# The Onyx Portal Project
 ## White Paper - DRAFT v0.1
 
 **A Modular Infrastructure System for Commerce, Entertainment, and Housing**
 
-Last Updated: December 25, 2024  
+Last Updated: December 25, 2024
 Status: Early Draft - Section Outlines
 
 ---
@@ -97,7 +97,7 @@ The problem isn't the containers - it's the absence of:
 
 ## 3. The Solution
 
-### 3.1 The Obsidian Portal Concept
+### 3.1 The Onyx Portal Concept
 
 **Core Idea:** Modular shipping containers that dock into standardized infrastructure, enabling:
 - Rapid theme/concept changes (entertainment)
@@ -149,9 +149,9 @@ The problem isn't the containers - it's the absence of:
 
 ### 3.4 The Network Effect
 
-**With 1 hub:** Limited value (only works there)  
-**With 10 hubs:** Vendors can relocate between cities  
-**With 50+ hubs:** National mobility, seasonal optimization  
+**With 1 hub:** Limited value (only works there)
+**With 10 hubs:** Vendors can relocate between cities
+**With 50+ hubs:** National mobility, seasonal optimization
 **With international adoption:** Follow demand globally
 
 Each new hub increases value for ALL participants.
@@ -289,7 +289,7 @@ All connections use existing RV/food truck standards:
 3. Multiple locations (dock at different hubs)
 4. Seasonal optimization (follow demand)
 
-**For Obsidian Portal (Standard Creator):**
+**For Onyx Portal (Standard Creator):**
 1. Container fabrication/modification
 2. Consulting services
 3. Hub infrastructure design/installation
@@ -480,7 +480,7 @@ All connections use existing RV/food truck standards:
 
 **"The standard defines the DOCK, not the capabilities."**
 
-The Obsidian Portal Standard ensures physical and utility compatibility, but does NOT dictate:
+The Onyx Portal Standard ensures physical and utility compatibility, but does NOT dictate:
 - Interior design/theming
 - Business model
 - Quality/price point
@@ -564,7 +564,7 @@ The Obsidian Portal Standard ensures physical and utility compatibility, but doe
 - Modular housing experiments fail (no infrastructure)
 - People lack mobility when circumstances change
 
-**The Obsidian Portal Solution:**
+**The Onyx Portal Solution:**
 - Proven dock infrastructure (from commercial use)
 - Standardized residential containers
 - True homeownership (own container, rent dock)
@@ -595,7 +595,7 @@ The Obsidian Portal Standard ensures physical and utility compatibility, but doe
 - Franchise model: pay fees forever, no ownership
 - Success in one market doesn't transfer
 
-**Obsidian Portal Solution:**
+**Onyx Portal Solution:**
 - Own your business container
 - Operate at any compatible hub
 - Relocate between cities
@@ -738,6 +738,6 @@ See: `/decisions/` directory
 
 *This white paper is a living document, continuously updated as research progresses and questions are answered. Current version: 0.1 (Early Draft)*
 
-**Contributors:** Christopher Hagmann  
-**Last Updated:** December 25, 2024  
+**Contributors:** Christopher Hagmann
+**Last Updated:** December 25, 2024
 **Status:** Brainstorming / Concept Development Phase

@@ -2,7 +2,7 @@
 
 ## What Was Done
 
-The Long Haul Jekyll theme has been successfully applied to the Obsidian Portal project.
+The Long Haul Jekyll theme has been successfully applied to the Onyx Portal project.
 
 ### Files Added/Modified
 

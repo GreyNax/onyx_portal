@@ -1,4 +1,4 @@
-# Obsidian Portal Project
+# Onyx Portal Project
 
 **A modular infrastructure system for portable commerce, entertainment, and housing**
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Project Vision
 
-The Obsidian Portal creates a standardized docking system for shipping container-based spaces, enabling:
+The Onyx Portal creates a standardized docking system for shipping container-based spaces, enabling:
 
 - **Entertainment venues** (escape rooms, D&D taverns, mystery dinners) that can rotate themes rapidly
 - **Food service & retail** that can relocate between cities or operate mobile events
@@ -31,7 +31,7 @@ By using proven RV and food truck connection standards, we're building an open e
 
 ## 📊 Current Status
 
-**Phase:** Concept Development / Research  
+**Phase:** Concept Development / Research
 **Last Updated:** December 25, 2024
 
 ### Recent Progress
@@ -129,7 +129,7 @@ By using proven RV and food truck connection standards, we're building an open e
 
 **We're not building a proprietary system—we're creating an open standard.**
 
-Like shipping containers themselves (ISO standard) or USB connectors, the Obsidian Portal standard enables:
+Like shipping containers themselves (ISO standard) or USB connectors, the Onyx Portal standard enables:
 - Multiple manufacturers competing on quality/price
 - Hub operators competing on location/amenities
 - Vendor mobility without franchise fees

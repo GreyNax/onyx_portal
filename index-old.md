@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "Obsidian Portal: An Open Standard for Modular Spaces"
+title: "Onyx Portal: An Open Standard for Modular Spaces"
 ---
 
 # Building in Public
 
-This is a live documentation of developing the Obsidian Portal - an open standard for modular, portable spaces that dock into standardized infrastructure.
+This is a live documentation of developing the Onyx Portal - an open standard for modular, portable spaces that dock into standardized infrastructure.
 
 **The Vision:** Start with entertainment (escape rooms, pop-up venues), scale to commerce (food service, retail), and ultimately enable affordable portable housing.
 
@@ -15,7 +15,7 @@ This is a live documentation of developing the Obsidian Portal - an open standar
 
 ## 🎯 Current Status
 
-**Phase:** Concept Development & Research  
+**Phase:** Concept Development & Research
 **Last Updated:** {{ site.time | date: '%B %d, %Y' }}
 
 ### Recent Progress
@@ -108,10 +108,10 @@ Anyone can:
 
 ## 📅 Roadmap
 
-**2025 Q1:** Proof of concept (scale model, research, spec v1.0)  
-**2025 Q2-Q3:** Prototype (one container + dock, 6-month test)  
-**2025 Q4:** Small hub (3-6 docks, multiple containers)  
-**2026-2027:** Network launch (multiple hubs, open source standard)  
+**2025 Q1:** Proof of concept (scale model, research, spec v1.0)
+**2025 Q2-Q3:** Prototype (one container + dock, 6-month test)
+**2025 Q4:** Small hub (3-6 docks, multiple containers)
+**2026-2027:** Network launch (multiple hubs, open source standard)
 **2028+:** Housing pilots (commercial funds social impact R&D)
 
 ---
@@ -133,8 +133,8 @@ This project is currently in early research phase. I'm documenting everything pu
 
 ## 📬 Contact
 
-**Project Lead:** Christopher Hagmann  
-**GitHub:** [github.com/yourusername/onyx_portal](https://github.com/yourusername/onyx_portal)  
+**Project Lead:** Christopher Hagmann
+**GitHub:** [github.com/yourusername/onyx_portal](https://github.com/yourusername/onyx_portal)
 **Email:** your-email@example.com
 
 ---

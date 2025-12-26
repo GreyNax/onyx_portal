@@ -6,12 +6,12 @@ permalink: /about/
 
 ## The Project
 
-The Obsidian Portal is an open standard for modular, portable spaces built from shipping containers that dock into standardized infrastructure.
+The Onyx Portal is an open standard for modular, portable spaces built from shipping containers that dock into standardized infrastructure.
 
 **The vision unfolds in three phases:**
 
 1. **Entertainment** - Escape rooms, D&D taverns, mystery dinners with rapidly rotating themes
-2. **Commerce** - Food service and retail that can relocate between cities or operate at mobile events  
+2. **Commerce** - Food service and retail that can relocate between cities or operate at mobile events
 3. **Housing** - Affordable portable homes where residents own their space and can take it when they move
 
 By using proven RV and food truck connection standards (not custom engineering), we're building an open ecosystem where multiple manufacturers, hub operators, and vendors can compete and collaborate.
@@ -52,7 +52,7 @@ Anyone should be able to:
 
 ## Current Status
 
-**Phase:** Concept Development & Research  
+**Phase:** Concept Development & Research
 **Started:** December 25, 2024
 
 We're currently:
@@ -104,8 +104,8 @@ This project combines all of those interests.
 
 ## License & Use
 
-Documentation: Creative Commons (specific license TBD)  
-Standard Specification: Open standard (specific license TBD)  
+Documentation: Creative Commons (specific license TBD)
+Standard Specification: Open standard (specific license TBD)
 Code/Designs: Open source (specific license TBD)
 
 *Licenses will be finalized once we move from research to prototype phase.*

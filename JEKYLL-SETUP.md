@@ -49,7 +49,7 @@ Site will be live at `https://yourusername.github.io/onyx_portal/`
 
 1. Add `CNAME` file with your domain:
    ```
-   obsidianportal.org
+   onyxportal.org
    ```
 
 2. Configure DNS:

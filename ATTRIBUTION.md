@@ -4,11 +4,11 @@
 
 This site uses the [Long Haul](https://github.com/brianmaierjr/long-haul) Jekyll theme by Brian Maier Jr.
 
-**License:** MIT License  
-**Repository:** https://github.com/brianmaierjr/long-haul  
+**License:** MIT License
+**Repository:** https://github.com/brianmaierjr/long-haul
 **Author:** Brian Maier Jr. ([@brianmaierjr](https://twitter.com/brianmaierjr))
 
-The Long Haul theme is a minimal, type-focused Jekyll theme built with SASS. It has been customized for the Obsidian Portal project while maintaining the core design and functionality.
+The Long Haul theme is a minimal, type-focused Jekyll theme built with SASS. It has been customized for the Onyx Portal project while maintaining the core design and functionality.
 
 ### Theme Features Used
 

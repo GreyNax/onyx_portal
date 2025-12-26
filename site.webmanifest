@@ -1,0 +1,21 @@
+{
+  "name": "Onyx Portal",
+  "short_name": "Onyx Portal",
+  "icons": [
+    {
+      "src": "/onyx_portal/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/onyx_portal/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#130b0c",
+  "background_color": "#130b0b",
+  "display": "standalone"
+}
