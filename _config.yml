@@ -1,18 +1,56 @@
 # Obsidian Portal Project - Jekyll Configuration
+# Using Long Haul Theme
 
 title: "Obsidian Portal"
 description: "Building an open standard for modular, portable spaces - from entertainment to affordable housing"
-author: "The Gray Nax"
-email: gm@greynax.com # Update this
-url: "https://yourusername.github.io" # Update this
-baseurl: "/onyx_portal" # Update if different repo name
 
-# Theme
-theme: minima
-# Or use: remote_theme: pages-themes/minimal@v0.2.0
+url: "https://greynax.github.io"
+baseurl: "/onyx_portal"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Permalink structure
-permalink: /blog/:year/:month/:day/:title/
+# Header Option - uncomment to make header larger
+# header: large
+
+# SASS settings
+sass:
+    style: compressed
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+paginate: 5
+
+# Navigation
+navigation:
+    - title: Home
+      url: /index.html
+    - title: About
+      url: /about
+    - title: Research
+      url: /research
+    - title: Decisions
+      url: /decisions
+    - title: Blog
+      url: /blog
+
+# Social media (update with your info)
+social:
+    github: greynax
+    email: gm@greynax.com
+    # twitter: yourusername
+    # linkedin: yourusername
+
+# Google Analytics (optional)
+# google_analytics: "UA-XXXXXXXX-X"
+
+# Disqus comments (optional)
+# disqus:
+#     shortname: yourdisqusshortname
 
 # Collections
 collections:
@@ -42,12 +80,6 @@ defaults:
     values:
       layout: "page"
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
 # Exclude from processing
 exclude:
   - .vscode/
@@ -55,3 +87,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README-dev.md
+  - .bundle/
+  - node_modules/
+  - package.json
+  - package-lock.json
