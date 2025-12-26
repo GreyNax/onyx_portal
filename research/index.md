@@ -7,7 +7,7 @@ permalink: /research/
 ## Research & Technical Documentation
 
 {% for item in site.research %}
-- [{{ item.title }}]({{ item.url }})
+- [{{ item.title }}]({{ item.url | relative_url }})
   {% if item.description %}
   <br>{{ item.description }}
   {% endif %}

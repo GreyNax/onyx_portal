@@ -77,9 +77,9 @@ I'm Christopher Hagmann, and I'm passionate about:
 
 This project combines all of those interests.
 
-**Background:** [Add your background here]
+**Background:** [greynax.com](https://greynax.com)
 
-**Contact:** [your-email@example.com]
+**Contact:** [onyx_portal@greynax.com]
 
 ---
 
@@ -88,9 +88,9 @@ This project combines all of those interests.
 **Currently:** Early research phase, not ready for active collaboration yet.
 
 **But you can:**
-- Follow along via [RSS feed](/feed.xml)
-- Star the [GitHub repo](https://github.com/yourusername/onyx_portal)
-- Share feedback via [GitHub Discussions](https://github.com/yourusername/onyx_portal/discussions)
+- Follow along via [RSS feed]({{ '/feed.xml' | relative_url }})
+- Star the [GitHub repo](https://github.com/GreyNax/onyx_portal)
+- Share feedback via [GitHub Discussions](https://github.com/GreyNax/onyx_portal/discussions)
 - Reach out if you're an operator interested in future testing
 
 **Later phases will need:**

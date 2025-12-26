@@ -7,7 +7,7 @@ permalink: /decisions/
 ## Key Design Decisions
 
 {% for decision in site.decisions %}
-- [{{ decision.title }}]({{ decision.url }}) - {{ decision.date | date: "%B %d, %Y" }}
+- [{{ decision.title }}]({{ decision.url | relative_url }}) - {{ decision.date | date: "%B %d, %Y" }}
   {% if decision.description %}
   <br>{{ decision.description }}
   {% endif %}

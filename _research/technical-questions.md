@@ -4,8 +4,8 @@ layout: page
 permalink: /research/technical-questions/
 ---
 
-**Last Updated:** December 25, 2024  
-**Status Overview:** 
+**Last Updated:** December 25, 2024
+**Status Overview:**
 - ✅ Answered: 8
 - 🔄 In Progress: 3
 - ⏳ Priority Next: 10
@@ -94,7 +94,7 @@ permalink: /research/technical-questions/
 
 ## PRIORITY NEXT ⏳
 
-*Full list of priority questions and all research categories in the [GitHub repository](https://github.com/yourusername/onyx_portal).*
+*Full list of priority questions and all research categories in the [GitHub repository](https://github.com/GreyNax/onyx_portal).*
 
 1. **Can 20' container meet ADA requirements?**
 2. **Is 50A enough for commercial kitchen?**
@@ -102,7 +102,7 @@ permalink: /research/technical-questions/
 4. **Grease trap per container or per hub?**
 5. **Cost crossover: build vs. buy containers?**
 
-[See complete technical questions →](https://github.com/yourusername/onyx_portal/blob/main/research/technical-questions.md)
+[See complete technical questions →](https://github.com/GreyNax/onyx_portal/blob/main/research/technical-questions.md)
 
 ---
 

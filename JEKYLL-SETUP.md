@@ -43,7 +43,7 @@ bundle exec jekyll serve --livereload
    - Folder: `/ (root)`
    - Save
 
-Site will be live at `https://yourusername.github.io/onyx_portal/`
+Site will be live at `https://GreyNax.github.io/onyx_portal/`
 
 ### Option 2: Custom Domain
 
@@ -54,7 +54,7 @@ Site will be live at `https://yourusername.github.io/onyx_portal/`
 
 2. Configure DNS:
    - Add A records pointing to GitHub Pages IPs
-   - Or CNAME record pointing to `yourusername.github.io`
+   - Or CNAME record pointing to `GreyNax.github.io`
 
 3. Enable HTTPS in GitHub Pages settings
 
