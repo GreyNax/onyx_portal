@@ -1,0 +1,57 @@
+# Obsidian Portal Project - Jekyll Configuration
+
+title: "Obsidian Portal"
+description: "Building an open standard for modular, portable spaces - from entertainment to affordable housing"
+author: "The Gray Nax"
+email: gm@greynax.com # Update this
+url: "https://yourusername.github.io" # Update this
+baseurl: "/onyx_portal" # Update if different repo name
+
+# Theme
+theme: minima
+# Or use: remote_theme: pages-themes/minimal@v0.2.0
+
+# Permalink structure
+permalink: /blog/:year/:month/:day/:title/
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /research/:name/
+  decisions:
+    output: true
+    permalink: /decisions/:date-:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Christopher Hagmann"
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "decisions"
+    values:
+      layout: "page"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - .vscode/
+  - scale-model/
+  - Gemfile
+  - Gemfile.lock
+  - README-dev.md
